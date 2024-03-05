@@ -1,2 +1,2 @@
-import { writable } from 'svelte/store'
-export const plane = writable()
+import { writable } from 'svelte/store';
+export const plane = writable();
